@@ -1,0 +1,41 @@
+  a {
+    color: white;
+  }
+  .title {
+    font-style: italic;
+  }
+  .Name img {
+    float: left;
+    width: 100px;
+    height: 100px;
+    
+  }
+  .Name h1 {
+    position: relative;
+    top: 18px;
+    left: 10px;
+  }
+  .Name h2 {
+    position: relative;
+    left: 10px;
+  }
+  .AboutMe {
+    text-align: center;
+    padding-inline-start: 35%;
+    padding-inline-end: 35%;
+  }
+  .Role {
+    text-align: center;
+    padding-inline-start: 35%;
+    padding-inline-end: 35%;
+  }
+  body {
+    background-color: #3C0603;
+    background-image: url(images\breakpoint-max.jpg);
+    font-family: sans-serif;
+    color: white;
+  }
+  .BackGround {
+    opacity: 0.2;
+  }
+  
